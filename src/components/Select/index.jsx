@@ -16,7 +16,6 @@ const Select = ({onChange, value1, value2, value3}) => {
     </div>
   );
 };
-
 export default Select;
 Select.defaultProps = {
   value3: ''
