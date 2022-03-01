@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Country List created with React App
+
+A representation of countries made using https://restcountries.com API. The list is sortable alphabetically by name (ascending, descending).
+It has filters and implemented pagination.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
